@@ -3,7 +3,8 @@ let clrs = [
 // '#E27F34', //top 0
 '#B7410E',
 // '#FEF254', //middle top 1
-	'#d1b8b3',
+	'#d1b8b3',  // new color 
+	'#d1e231', // light green
 '#A36C33', //middle strip 2
 '#042060', //middle bottom 3
 '#3778AE' //bottom 4
